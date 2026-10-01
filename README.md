@@ -1,40 +1,33 @@
 <div align="center">
 
-# ALIREZA
-
-### FRONTEND DEVELOPER
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=180&section=header&text=ALIREZA&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=FRONTEND%20DEVELOPER&descSize=14&descColor=e53935&descAlignY=68" width="100%"/>
 
 <br>
 
-**I build interfaces with intention.**
+### I BUILD DIGITAL INTERFACES.
 
-<br>
+*Precise by design. Simple by nature.*
 
-— — —
+<br><br>
 
 </div>
 
-## SELECTED
+---
 
-`interfaces` · `experiments` · `things worth building`
+### / ABOUT
 
-<br>
+I'm **Alireza**, a frontend developer focused on building interfaces
+that feel as good as they work.
 
-## CURRENTLY
-
-Building thoughtful interfaces  
-with a focus on clarity, interaction, and detail.
-
-<br>
-
-## ELSEWHERE
-
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](YOUR_LINKEDIN) · [Website](YOUR_WEBSITE)
+I care about **details, interaction, typography, and clean code** —
+not unnecessary complexity.
 
 <br>
 
-<div align="center">
+### / TOOLBOX
 
-<sub>© ALIREZA</sub>
-
-</div>
+```text
+LANGUAGES     JavaScript · TypeScript · HTML · CSS
+FRAMEWORKS    React · Next.js
+STYLING       Tailwind CSS · CSS
+TOOLS         Git · GitHub · Figma
