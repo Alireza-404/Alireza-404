@@ -1,30 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:120000,100:8B0000&height=210&section=header&text=ALIREZA%20SHABANI&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=FRONT-END%20DEVELOPER&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030303,35:161100,70:6B4E00,100:D4AF37&height=220&section=header&text=ALIREZA%20SHABANI&fontSize=46&fontColor=FFF8DC&fontAlignY=38&desc=FRONT-END%20DEVELOPER&descAlignY=61&descSize=17&animation=fadeIn" width="100%"/>
 
 <br>
 
 <a href="https://t.me/Berserk_4O4">
-<img src="https://img.shields.io/badge/Telegram-Berserk__4O4-090909?style=for-the-badge&logo=telegram&logoColor=FF3030&labelColor=090909" />
+<img src="https://img.shields.io/badge/Telegram-Berserk__4O4-080808?style=for-the-badge&logo=telegram&logoColor=D4AF37&labelColor=080808" />
 </a>
 &nbsp;
 <a href="#">
-<img src="https://img.shields.io/badge/Instagram-Coming%20Soon-090909?style=for-the-badge&logo=instagram&logoColor=FF3030&labelColor=090909" />
+<img src="https://img.shields.io/badge/Instagram-Coming%20Soon-080808?style=for-the-badge&logo=instagram&logoColor=D4AF37&labelColor=080808" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=850&color=FF3B3B&center=true&vCenter=true&width=720&lines=Crafting+interfaces+with+precision.;Turning+ideas+into+interactive+experiences.;Clean+code.+Sharp+design.+Meaningful+motion.;Always+learning.+Always+building." alt="Animated typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=850&color=D4AF37&center=true&vCenter=true&width=720&lines=Crafting+interfaces+with+precision.;Turning+ideas+into+interactive+experiences.;Clean+code.+Sharp+design.+Meaningful+motion.;Always+learning.+Always+building." alt="Animated typing" />
 
 </div>
 
 <br>
 
-<table width="100%" bgcolor="#090909">
+<table width="100%" bgcolor="#070707">
 <tr>
 <td align="center">
 
-<h2>◈ ABOUT ME</h2>
+<h2>✦ ABOUT ME</h2>
 
 <p>
 I'm <b>Alireza Shabani</b>, a Front-End Developer focused on building
@@ -42,9 +42,9 @@ I care about the details that turn a working interface into a memorable one:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/FOCUS-FRONT--END-FF3030?style=flat-square&labelColor=111111"/>
-<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20GROWTH-FF3030?style=flat-square&labelColor=111111"/>
-<img src="https://img.shields.io/badge/STYLE-CLEAN%20%26%20INTERACTIVE-FF3030?style=flat-square&labelColor=111111"/>
+<img src="https://img.shields.io/badge/FOCUS-FRONT--END-D4AF37?style=flat-square&labelColor=111111"/>
+<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20GROWTH-D4AF37?style=flat-square&labelColor=111111"/>
+<img src="https://img.shields.io/badge/STYLE-CLEAN%20%26%20INTERACTIVE-D4AF37?style=flat-square&labelColor=111111"/>
 
 </td>
 </tr>
@@ -54,7 +54,7 @@ I care about the details that turn a working interface into a memorable one:
 
 <div align="center">
 
-## ◈ TOOLKIT
+## ✦ TOOLKIT
 
 <sub>Technologies and tools I work with</sub>
 
@@ -62,7 +62,7 @@ I care about the details that turn a working interface into a memorable one:
 
 <br>
 
-<table align="center" width="100%" bgcolor="#090909">
+<table align="center" width="100%" bgcolor="#070707">
 <tr>
 
 <td align="center" width="50%">
@@ -74,7 +74,6 @@ I care about the details that turn a working interface into a memorable one:
 <img src="https://img.shields.io/badge/Sass-151515?style=for-the-badge&logo=sass&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Regex-151515?style=for-the-badge&logo=regex&logoColor=FFFFFF"/>
 
 </td>
 
@@ -88,7 +87,7 @@ I care about the details that turn a working interface into a memorable one:
 <img src="https://img.shields.io/badge/Redux_Toolkit-151515?style=for-the-badge&logo=redux&logoColor=764ABC"/>
 <img src="https://img.shields.io/badge/React_Router-151515?style=for-the-badge&logo=reactrouter&logoColor=CA4245"/>
 <img src="https://img.shields.io/badge/Formik-151515?style=for-the-badge&logo=formik&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Yup-151515?style=for-the-badge&logo=yup&logoColor=FF3B3B"/>
+<img src="https://img.shields.io/badge/Yup-151515?style=for-the-badge&logo=yup&logoColor=FF3D00"/>
 
 </td>
 
@@ -103,8 +102,6 @@ I care about the details that turn a working interface into a memorable one:
 <img src="https://img.shields.io/badge/Tailwind_CSS-151515?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
 <img src="https://img.shields.io/badge/Bootstrap-151515?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
 <img src="https://img.shields.io/badge/MUI-151515?style=for-the-badge&logo=mui&logoColor=007FFF"/>
-<img src="https://img.shields.io/badge/Flexbox-151515?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/CSS_Grid-151515?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
 
 </td>
 
@@ -115,8 +112,6 @@ I care about the details that turn a working interface into a memorable one:
 <img src="https://img.shields.io/badge/GSAP-151515?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
 <img src="https://img.shields.io/badge/Framer_Motion-151515?style=for-the-badge&logo=framer&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Swiper-151515?style=for-the-badge&logo=swiper&logoColor=6332F6"/>
-<img src="https://img.shields.io/badge/AOS-151515?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/WOW.js-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 </td>
 
@@ -155,83 +150,113 @@ I care about the details that turn a working interface into a memorable one:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090909,50:220000,100:8B0000&height=2&section=header" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070707,35:241A00,65:8A6500,100:D4AF37&height=3&section=header" width="78%"/>
 
 </div>
 
 <br>
 
-<table width="100%" bgcolor="#090909">
-<tr>
-<td align="center">
+<div align="center">
 
-<h2>◈ BEYOND CODE</h2>
+# ✦ BEYOND CODE ✦
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=What+inspires+me+outside+the+screen.;Imagination.+Discipline.+Growth.;Different+worlds.+One+mindset." alt="Beyond Code animation" />
+
+<br><br>
+
+<table width="96%" bgcolor="#080808">
+<tr>
+
+<td align="center" width="33%" bgcolor="#0A0A0A">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/⚔-D4AF37?style=for-the-badge&labelColor=0A0A0A" />
 
 <br>
 
-<table width="92%" bgcolor="#0D0D0D">
-<tr>
+<h2>ANIME</h2>
 
-<td align="center" width="33%" bgcolor="#0D0D0D">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header" width="65%"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/⚔-FF3030?style=for-the-badge&labelColor=0D0D0D" />
-
-<h3>ANIME</h3>
+<p>
+<b>IMAGINATION</b>
+</p>
 
 <sub>
 Stories, worlds and characters<br>
-that fuel imagination.
+that keep imagination alive.
 </sub>
 
 <br><br>
 
-<code>IMAGINATION</code>
+<code>EXPLORE · IMAGINE · CREATE</code>
 
-<br><br>
+<br><br><br>
 
 </td>
 
-<td align="center" width="33%" bgcolor="#100909">
+<td align="center" width="33%" bgcolor="#100D05">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🥋-D4AF37?style=for-the-badge&labelColor=100D05" />
 
 <br>
 
-<img src="https://img.shields.io/badge/🥋-FF3030?style=for-the-badge&labelColor=100909" />
+<h2>JUDO</h2>
 
-<h3>JUDO</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header" width="65%"/>
+
+<br>
+
+<p>
+<b>DISCIPLINE</b>
+</p>
 
 <sub>
-Discipline · Balance<br>
-Patience · Technique
+Balance · Patience · Technique<br>
+Strength guided by control.
 </sub>
 
 <br><br>
 
-<code>DISCIPLINE</code>
+<code>FOCUS · BALANCE · DISCIPLINE</code>
 
-<br><br>
+<br><br><br>
 
 </td>
 
-<td align="center" width="33%" bgcolor="#0D0D0D">
+<td align="center" width="33%" bgcolor="#0A0A0A">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/✦-D4AF37?style=for-the-badge&labelColor=0A0A0A" />
 
 <br>
 
-<img src="https://img.shields.io/badge/◈-FF3030?style=for-the-badge&labelColor=0D0D0D" />
+<h2>MINDSET</h2>
 
-<h3>MINDSET</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header" width="65%"/>
+
+<br>
+
+<p>
+<b>EVOLUTION</b>
+</p>
 
 <sub>
-Curiosity · Precision<br>
-Consistency · Growth
+Curiosity · Precision · Consistency<br>
+Always moving forward.
 </sub>
 
 <br><br>
 
-<code>EVOLUTION</code>
+<code>LEARN · BUILD · EVOLVE</code>
 
-<br><br>
+<br><br><br>
 
 </td>
 
@@ -240,23 +265,21 @@ Consistency · Growth
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=600&lines=Different+interests.+One+mindset.;Stay+curious.+Stay+disciplined.;Keep+building." alt="Mindset animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=F5D76E&center=true&vCenter=true&width=720&lines=Different+interests.+One+mindset.;Stay+curious.+Stay+disciplined.;Keep+building.;Keep+evolving." alt="Animated mindset" />
 
 <br><br>
 
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070707,25:3D2D00,50:D4AF37,75:3D2D00,100:070707&height=3&section=header" width="82%"/>
+
+</div>
 
 <br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:050505,50:260000,100:9B0000&height=120&section=footer&text=THANKS%20FOR%20READING&fontSize=25&fontColor=FFFFFF&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:030303,35:171200,70:6B4E00,100:D4AF37&height=130&section=footer&text=THANKS%20FOR%20READING&fontSize=27&fontColor=FFF8DC&animation=fadeIn" width="100%"/>
 
-<sub>
-<strong>Thanks for taking the time to read my README.</strong>
-</sub>
+<sub><strong>Thanks for taking the time to read my README.</strong></sub>
 
 <br><br>
 
