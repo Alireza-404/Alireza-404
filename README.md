@@ -147,6 +147,7 @@ I care about the details that turn a working interface into a memorable one:
 
 <table width="96%" bgcolor="#080808">
 <tr>
+<br>
 
 <td align="center" width="33%" bgcolor="#0A0A0A">
 
