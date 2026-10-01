@@ -1,16 +1,40 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Alireza-404/Alireza-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ALIREZA
 
-Here are some ideas to get you started:
+### FRONTEND DEVELOPER
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+**I build interfaces with intention.**
+
+<br>
+
+— — —
+
+</div>
+
+## SELECTED
+
+`interfaces` · `experiments` · `things worth building`
+
+<br>
+
+## CURRENTLY
+
+Building thoughtful interfaces  
+with a focus on clarity, interaction, and detail.
+
+<br>
+
+## ELSEWHERE
+
+[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](YOUR_LINKEDIN) · [Website](YOUR_WEBSITE)
+
+<br>
+
+<div align="center">
+
+<sub>© ALIREZA</sub>
+
+</div>
