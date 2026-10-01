@@ -158,14 +158,14 @@ I care about the details that turn a working interface into a memorable one:
 
 <br><br>
 
-<table width="96%" bgcolor="#080808">
+<table width="100%" bgcolor="#080808">
 <tr>
 
 <td align="center" width="33%" bgcolor="#0A0A0A">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/⚔-D4AF37?style=for-the-badge&labelColor=0A0A0A"" width="60px" height="60px" />
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f3ad.svg" width="60" height="60" alt="Anime icon" />
 
 <br>
 
@@ -194,7 +194,7 @@ that keep imagination alive.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🥋-D4AF37?style=for-the-badge&labelColor=100D05"" width="60px" height="60px" />
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f94b.svg" width="60" height="60" alt="Judo icon" />
 
 <br>
 
@@ -223,7 +223,7 @@ Strength guided by control.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/✦-D4AF37?style=for-the-badge&labelColor=0A0A0A"" width="60px" height="60px" />
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f9e0.svg" width="60" height="60" alt="Mindset icon" />
 
 <br>
 
