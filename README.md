@@ -242,7 +242,7 @@ Always moving forward.
 
 <br><br>
 
-<code>Learn · Build · Evolve. Improve.</code>
+<code>Learn · Build · Evolve</code>
 
 <br><br><br>
 
