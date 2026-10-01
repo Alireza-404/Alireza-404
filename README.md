@@ -49,6 +49,15 @@ I care about the details that turn a working interface into a memorable one:
 </td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+✦ TOOLKIT
+
+<sub>Technologies and tools I work with</sub>
+
 </div>
 
 <br>
@@ -139,25 +148,28 @@ I care about the details that turn a working interface into a memorable one:
 
 <br>
 
+<br>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070707,35:241A00,65:8A6500,100:D4AF37&height=3&section=header" width="78%"/>
+✦ BEYOND CODE ✦
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=What+inspires+me+outside+the+screen.;Imagination.+Discipline.+Growth.;Different+worlds.+One+mindset." alt="Beyond Code animation" />
+
+<br><br>
 
 <table width="96%" bgcolor="#080808">
 <tr>
-<br>
 
 <td align="center" width="33%" bgcolor="#0A0A0A">
 
-<img src="https://img.shields.io/badge/⚔-D4AF37?style=for-the-badge&labelColor=0A0A0A" width="60px" height="60px" />
+<br><br>
+
+<img src="https://img.shields.io/badge/⚔-D4AF37?style=for-the-badge&labelColor=0A0A0A"" width="60" height="60" />
 
 <br>
 
 <h2>ANIME</h2>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header" width="65%"/>
 
 <br>
 
@@ -182,13 +194,11 @@ that keep imagination alive.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🥋-D4AF37?style=for-the-badge&labelColor=100D05" width="69px" height="60px" />
+<img src="https://img.shields.io/badge/🥋-D4AF37?style=for-the-badge&labelColor=100D05"" width="60" height="60" />
 
 <br>
 
 <h2>JUDO</h2>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header" width="65%"/>
 
 <br>
 
@@ -213,13 +223,11 @@ Strength guided by control.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/✦-D4AF37?style=for-the-badge&labelColor=0A0A0A" width="60px" height="60px" />
+<img src="https://img.shields.io/badge/✦-D4AF37?style=for-the-badge&labelColor=0A0A0A"" width="60" height="60" />
 
 <br>
 
 <h2>MINDSET</h2>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header" width="65%"/>
 
 <br>
 
@@ -248,8 +256,6 @@ Always moving forward.
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=F5D76E&center=true&vCenter=true&width=720&lines=Different+interests.+One+mindset.;Stay+curious.+Stay+disciplined.;Keep+building.;Keep+evolving." alt="Animated mindset" />
 
 <br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070707,25:3D2D00,50:D4AF37,75:3D2D00,100:070707&height=3&section=header" width="82%"/>
 
 </div>
 
