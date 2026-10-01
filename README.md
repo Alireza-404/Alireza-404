@@ -150,8 +150,6 @@ I care about the details that turn a working interface into a memorable one:
 
 <td align="center" width="33%" bgcolor="#0A0A0A">
 
-<br><br>
-
 <img src="https://img.shields.io/badge/⚔-D4AF37?style=for-the-badge&labelColor=0A0A0A" width="60px" height="60px" />
 
 <br>
@@ -183,7 +181,7 @@ that keep imagination alive.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🥋-D4AF37?style=for-the-badge&labelColor=100D05" width="65px" height="65px" />
+<img src="https://img.shields.io/badge/🥋-D4AF37?style=for-the-badge&labelColor=100D05" width="69px" height="60px" />
 
 <br>
 
