@@ -54,7 +54,7 @@ I care about the details that turn a working interface into a memorable one:
 
 <div align="center">
 
-## ✦ TOOLKIT
+✦ TOOLKIT
 
 <sub>Technologies and tools I work with</sub>
 
@@ -158,26 +158,32 @@ I care about the details that turn a working interface into a memorable one:
 
 <div align="center">
 
-# ✦ BEYOND CODE ✦
+✦ BEYOND CODE ✦
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=What+inspires+me+outside+the+screen.;Imagination.+Discipline.+Growth.;Different+worlds.+One+mindset." alt="Beyond Code animation" />
 
 <br><br>
 
-<table width="96%" bgcolor="#080808">
+<table width="96%" bgcolor="#050505">
 <tr>
 
-<td align="center" width="33%" bgcolor="#0A0A0A">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/⚔-D4AF37?style=for-the-badge&labelColor=0A0A0A" />
+<td align="center" width="33%" bgcolor="#090909">
 
 <br>
 
-<h2>ANIME</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,45:241A00,72:8A6500,100:D4AF37&height=8&section=header" width="92%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header" width="65%"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,50:3A2A00,100:D4AF37&height=92&section=header&text=⚔%20ANIME&fontSize=28&fontColor=FFF8DC&fontAlignY=58&animation=fadeIn" width="88%"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2600&pause=900&color=F5D76E&center=true&vCenter=true&width=360&lines=IMAGINATION;WORLDS+BEYOND+REALITY;STORIES+THAT+INSPIRE" alt="Anime animation" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070707,50:D4AF37,100:070707&height=2&section=header" width="68%"/>
 
 <br>
 
@@ -192,23 +198,31 @@ that keep imagination alive.
 
 <br><br>
 
-<code>EXPLORE · IMAGINE · CREATE</code>
-
-<br><br><br>
-
-</td>
-
-<td align="center" width="33%" bgcolor="#100D05">
+<img src="https://img.shields.io/badge/EXPLORE%20%20·%20%20IMAGINE%20%20·%20%20CREATE-111111?style=for-the-badge&labelColor=090909&color=D4AF37"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🥋-D4AF37?style=for-the-badge&labelColor=100D05" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:3D2D00,100:090909&height=5&section=footer" width="92%"/>
+
+</td>
+
+<td align="center" width="33%" bgcolor="#0D0A05">
 
 <br>
 
-<h2>JUDO</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0A05,45:3A2800,72:9A7000,100:D4AF37&height=8&section=header" width="92%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header" width="65%"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:17130B,50:3A2900,100:D4AF37&height=92&section=header&text=🥋%20JUDO&fontSize=28&fontColor=FFF8DC&fontAlignY=58&animation=fadeIn" width="88%"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2600&pause=900&color=F5D76E&center=true&vCenter=true&width=360&lines=DISCIPLINE;BALANCE+UNDER+PRESSURE;CONTROL+THE+MOTION" alt="Judo animation" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070707,50:D4AF37,100:070707&height=2&section=header" width="68%"/>
 
 <br>
 
@@ -223,23 +237,31 @@ Strength guided by control.
 
 <br><br>
 
-<code>FOCUS · BALANCE · DISCIPLINE</code>
-
-<br><br><br>
-
-</td>
-
-<td align="center" width="33%" bgcolor="#0A0A0A">
+<img src="https://img.shields.io/badge/FOCUS%20%20·%20%20BALANCE%20%20·%20%20DISCIPLINE-111111?style=for-the-badge&labelColor=0D0A05&color=D4AF37"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/✦-D4AF37?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:3D2D00,100:0D0A05&height=5&section=footer" width="92%"/>
+
+</td>
+
+<td align="center" width="33%" bgcolor="#090909">
 
 <br>
 
-<h2>MINDSET</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:090909,45:241A00,72:8A6500,100:D4AF37&height=8&section=header" width="92%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header" width="65%"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:171717,50:3A2A00,100:D4AF37&height=92&section=header&text=✦%20MINDSET&fontSize=28&fontColor=FFF8DC&fontAlignY=58&animation=fadeIn" width="88%"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=2600&pause=900&color=F5D76E&center=true&vCenter=true&width=360&lines=EVOLUTION;CURIOSITY+MEETS+PRECISION;ALWAYS+MOVING+FORWARD" alt="Mindset animation" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:070707,50:D4AF37,100:070707&height=2&section=header" width="68%"/>
 
 <br>
 
@@ -254,9 +276,11 @@ Always moving forward.
 
 <br><br>
 
-<code>LEARN · BUILD · EVOLVE</code>
+<img src="https://img.shields.io/badge/LEARN%20%20·%20%20BUILD%20%20·%20%20EVOLVE-111111?style=for-the-badge&labelColor=090909&color=D4AF37"/>
 
-<br><br><br>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:3D2D00,100:090909&height=5&section=footer" width="92%"/>
 
 </td>
 
