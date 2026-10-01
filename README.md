@@ -158,7 +158,7 @@ I care about the details that turn a working interface into a memorable one:
 
 <br><br>
 
-<table width="120%" bgcolor="#080808">
+<table width="100%" bgcolor="#080808">
 <tr>
 
 <td align="center" width="33%" bgcolor="#0A0A0A">
@@ -242,7 +242,7 @@ Always moving forward.
 
 <br><br>
 
-<code>LEARN · BUILD · EVOLVE</code>
+<code>Learn · Build · Evolve. Improve.</code>
 
 <br><br><br>
 
