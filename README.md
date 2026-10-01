@@ -202,7 +202,7 @@ that keep imagination alive.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🥋-D4AF37?style=for-the-badge&labelColor=100D05" />
+<img src="https://img.shields.io/badge/🥋-D4AF37?style=for-the-badge&labelColor=100D05" width="60px" height="60px" />
 
 <br>
 
@@ -233,13 +233,13 @@ Strength guided by control.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/✦-D4AF37?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/✦-D4AF37?style=for-the-badge&labelColor=0A0A0A" width="60px" height="60px" />
 
 <br>
 
 <h2>MINDSET</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header" width="65%"/>
+
 
 <br>
 
