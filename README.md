@@ -156,14 +156,6 @@ I care about the details that turn a working interface into a memorable one:
 
 <br>
 
-<div align="center">
-
-✦ BEYOND CODE ✦
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=What+inspires+me+outside+the+screen.;Imagination.+Discipline.+Growth.;Different+worlds.+One+mindset." alt="Beyond Code animation" />
-
-<br><br>
-
 <table width="96%" bgcolor="#080808">
 <tr>
 
@@ -239,7 +231,7 @@ Strength guided by control.
 
 <h2>MINDSET</h2>
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D4AF37&height=2&section=header" width="65%"/>
 
 <br>
 
