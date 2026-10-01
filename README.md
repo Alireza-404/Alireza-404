@@ -145,8 +145,6 @@ I care about the details that turn a working interface into a memorable one:
 
 </div>
 
-<br>
-
 <table width="96%" bgcolor="#080808">
 <tr>
 
@@ -185,7 +183,7 @@ that keep imagination alive.
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🥋-D4AF37?style=for-the-badge&labelColor=100D05" width="60px" height="60px" />
+<img src="https://img.shields.io/badge/🥋-D4AF37?style=for-the-badge&labelColor=100D05" width="65px" height="65px" />
 
 <br>
 
