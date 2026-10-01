@@ -49,15 +49,6 @@ I care about the details that turn a working interface into a memorable one:
 </td>
 </tr>
 </table>
-
-<br>
-
-<div align="center">
-
-✦ TOOLKIT
-
-<sub>Technologies and tools I work with</sub>
-
 </div>
 
 <br>
