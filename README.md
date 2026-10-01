@@ -171,7 +171,7 @@ I care about the details that turn a working interface into a memorable one:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/⚔-D4AF37?style=for-the-badge&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/⚔-D4AF37?style=for-the-badge&labelColor=0A0A0A" width="40px" height="40px" />
 
 <br>
 
