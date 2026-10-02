@@ -158,45 +158,82 @@ I care about the details that turn a working interface into a memorable one:
 
 </table>
 
-<br><br>
+<br><br><br>
 
 <div align="center">
 
-<h2>✦ BEYOND CODE</h2>
-
-</div>
+<h2>✦ OUTSIDE THE SCREEN</h2>
 
 <br>
 
 <table width="100%">
 <tr>
 
-<td align="center" width="50%">
-
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f3ad.svg" width="38" height="38" alt="Anime" />
+<td align="center" width="33%">
 
 <br>
 
-<h3>ANIME</h3>
+<h1>自然</h1>
 
-<sub>Stories, worlds, and perspectives.</sub>
+<h3>NATURE</h3>
+
+<sub>
+A quiet appreciation for the natural world.
+</sub>
+
+<br><br>
 
 </td>
 
-<td align="center" width="50%">
-
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f94b.svg" width="38" height="38" alt="Judo" />
+<td align="center" width="33%">
 
 <br>
 
+<h1>アニメ</h1>
+
+<h3>ANIME</h3>
+
+<sub>
+Stories that stay with you long after the screen fades.
+</sub>
+
+<br><br>
+
+</td>
+
+<td align="center" width="33%">
+
+<br>
+
+<h1>柔道</h1>
+
 <h3>JUDO</h3>
 
-<sub>Movement, technique, and control.</sub>
+<sub>
+A sport built around movement, timing, and technique.
+</sub>
+
+<br><br>
 
 </td>
 
 </tr>
 </table>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030303,50:6B4E00,100:D4AF37&height=2&section=header" width="55%"/>
+
+<br><br><br>
+
+<i>
+Some interests belong on a screen.<br>
+Others are better experienced away from it.
+</i>
+
+<br><br><br>
+
+</div>
 
 <br><br>
 
