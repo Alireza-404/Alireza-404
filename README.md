@@ -22,7 +22,7 @@
 <tr>
 <td align="center">
 
-<h2>✦ ABOUT ME</h2>
+<h2>ABOUT ME</h2>
 
 <p>
 I'm <b>Alireza Shabani</b>, a Front-End Developer focused on building
@@ -46,7 +46,7 @@ I care about the details that turn a working interface into a memorable one:
 
 <div align="center">
 
-<h2>✦ TECHNICAL SKILLS</h2>
+<h2>TECHNICAL SKILLS</h2>
 
 <sub>A focused toolkit for building modern front-end experiences.</sub>
 
@@ -162,74 +162,24 @@ I care about the details that turn a working interface into a memorable one:
 
 <div align="center">
 
-<h2>✦ OUTSIDE THE SCREEN</h2>
+<h2>BEYOND CODE</h2>
 
 <br>
 
-<table width="100%">
-<tr>
-
-<td align="center" width="33%">
+<p>
+<b>NATURE</b>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<b>ANIME</b>
+&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+<b>JUDO</b>
+</p>
 
 <br>
-
-<h1>自然</h1>
-
-<h3>NATURE</h3>
 
 <sub>
-A quiet appreciation for the natural world.
+Away from development, I enjoy the quiet of nature, the worlds of anime,
+and the practice of judo.
 </sub>
-
-<br><br>
-
-</td>
-
-<td align="center" width="33%">
-
-<br>
-
-<h1>アニメ</h1>
-
-<h3>ANIME</h3>
-
-<sub>
-Stories that stay with you long after the screen fades.
-</sub>
-
-<br><br>
-
-</td>
-
-<td align="center" width="33%">
-
-<br>
-
-<h1>柔道</h1>
-
-<h3>JUDO</h3>
-
-<sub>
-A sport built around movement, timing, and technique.
-</sub>
-
-<br><br>
-
-</td>
-
-</tr>
-</table>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030303,50:6B4E00,100:D4AF37&height=2&section=header" width="55%"/>
-
-<br><br><br>
-
-<i>
-Some interests belong on a screen.<br>
-Others are better experienced away from it.
-</i>
 
 <br><br><br>
 
