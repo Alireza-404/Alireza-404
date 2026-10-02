@@ -20,7 +20,7 @@
 
 <br>
 
-<table width="100%" bgcolor="#070707">
+<table width="100%">
 <tr>
 <td align="center">
 
@@ -40,54 +40,62 @@ I care about the details that turn a working interface into a memorable one:
 
 <code>Understand → Design → Build → Refine</code>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/FOCUS-FRONT--END-D4AF37?style=flat-square&labelColor=111111"/>
-<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20GROWTH-D4AF37?style=flat-square&labelColor=111111"/>
-<img src="https://img.shields.io/badge/STYLE-CLEAN%20%26%20INTERACTIVE-D4AF37?style=flat-square&labelColor=111111"/>
-
 </td>
 </tr>
 </table>
 
-<br>
+<br><br>
 
 <div align="center">
 
-✦ TOOLKIT
+<h2>✦ TECHNOLOGIES</h2>
 
-<sub>Technologies and tools I work with</sub>
+<sub>A focused stack built around modern front-end development.</sub>
 
 </div>
 
 <br>
 
-<table align="center" width="100%" bgcolor="#070707">
+<table align="center" width="100%">
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-<h3>CORE</h3>
+<h3 align="center">CORE</h3>
 
-<img src="https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-151515?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/Sass-151515?style=for-the-badge&logo=sass&logoColor=CC6699"/>
-<img src="https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-151515?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" />
+</p>
+
+<p align="center">
+HTML5 · CSS3 · Sass · JavaScript · TypeScript
+</p>
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-<h3>REACT ECOSYSTEM</h3>
+<h3 align="center">REACT ECOSYSTEM</h3>
 
-<img src="https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-151515?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Redux-151515?style=for-the-badge&logo=redux&logoColor=764ABC"/>
-<img src="https://img.shields.io/badge/Redux_Toolkit-151515?style=for-the-badge&logo=redux&logoColor=764ABC"/>
-<img src="https://img.shields.io/badge/React_Router-151515?style=for-the-badge&logo=reactrouter&logoColor=CA4245"/>
-<img src="https://img.shields.io/badge/Formik-151515?style=for-the-badge&logo=formik&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Yup-151515?style=for-the-badge&logo=yup&logoColor=FF3D00"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" />
+</p>
+
+<p align="center">
+React · Next.js · Redux · Redux Toolkit · React Router · Formik · Yup
+</p>
 
 </td>
 
@@ -95,23 +103,39 @@ I care about the details that turn a working interface into a memorable one:
 
 <tr>
 
-<td align="center">
+<td width="50%" valign="top">
 
-<h3>STYLING · UI</h3>
+<h3 align="center">STYLING · UI</h3>
 
-<img src="https://img.shields.io/badge/Tailwind_CSS-151515?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
-<img src="https://img.shields.io/badge/Bootstrap-151515?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
-<img src="https://img.shields.io/badge/MUI-151515?style=for-the-badge&logo=mui&logoColor=007FFF"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" />
+</p>
+
+<p align="center">
+Tailwind CSS · Bootstrap · MUI
+</p>
 
 </td>
 
-<td align="center">
+<td width="50%" valign="top">
 
-<h3>ANIMATION · INTERACTION</h3>
+<h3 align="center">ANIMATION · INTERACTION</h3>
 
-<img src="https://img.shields.io/badge/GSAP-151515?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
-<img src="https://img.shields.io/badge/Framer_Motion-151515?style=for-the-badge&logo=framer&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Swiper-151515?style=for-the-badge&logo=swiper&logoColor=6332F6"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/greensock/greensock-original.svg" width="36" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="36" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swiper/swiper-original.svg" width="36" />
+</p>
+
+<p align="center">
+GSAP · Framer Motion · Swiper
+</p>
 
 </td>
 
@@ -119,132 +143,81 @@ I care about the details that turn a working interface into a memorable one:
 
 <tr>
 
-<td align="center">
+<td width="50%" valign="top">
 
-<h3>DATA · API</h3>
+<h3 align="center">DATA · API</h3>
 
-<img src="https://img.shields.io/badge/REST_API-151515?style=for-the-badge&logo=fastapi&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/GraphQL-151515?style=for-the-badge&logo=graphql&logoColor=E10098"/>
-<img src="https://img.shields.io/badge/Apollo_Client-151515?style=for-the-badge&logo=apollographql&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Supabase-151515?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
-<img src="https://img.shields.io/badge/i18next-151515?style=for-the-badge&logo=i18next&logoColor=26A69A"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="36" />
+</p>
+
+<p align="center">
+REST API · GraphQL · Apollo Client · Supabase · i18next
+</p>
 
 </td>
 
-<td align="center">
+<td width="50%" valign="top">
 
-<h3>WORKFLOW · DEPLOYMENT</h3>
+<h3 align="center">WORKFLOW · DEPLOYMENT</h3>
 
-<img src="https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Vite-151515?style=for-the-badge&logo=vite&logoColor=646CFF"/>
-<img src="https://img.shields.io/badge/NPM-151515?style=for-the-badge&logo=npm&logoColor=CB3837"/>
-<img src="https://img.shields.io/badge/Vercel-151515?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="36" />
+</p>
+
+<p align="center">
+Git · GitHub · Vite · NPM · Vercel
+</p>
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
-<br>
+<br><br>
 
 <div align="center">
 
-✦ BEYOND CODE ✦
+<h2>✦ BEYOND CODE</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3200&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=What+inspires+me+outside+the+screen.;Imagination.+Discipline.+Growth.;Different+worlds.+One+mindset." alt="Beyond Code animation" />
+<br>
 
-<br><br>
-
-<table width="100%" bgcolor="#080808">
+<table align="center" width="80%">
 <tr>
 
-<td align="center" width="33%" bgcolor="#0A0A0A">
+<td align="center" width="50%">
+
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f3ad.svg" width="42" alt="Anime" />
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f3ad.svg" width="60" height="60" alt="Anime icon" />
+<b>ANIME</b>
 
 <br>
 
-<h2>ANIME</h2>
-
-<br>
-
-<p>
-<b>IMAGINATION</b>
-</p>
-
-<sub>
-Stories, worlds and characters<br>
-that keep imagination alive.
-</sub>
-
-<br><br>
-
-<code>EXPLORE · IMAGINE · CREATE</code>
-
-<br><br><br>
+<sub>Stories, worlds, and ideas.</sub>
 
 </td>
 
-<td align="center" width="33%" bgcolor="#100D05">
+<td align="center" width="50%">
+
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f94b.svg" width="42" alt="Judo" />
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f94b.svg" width="60" height="60" alt="Judo icon" />
+<b>JUDO</b>
 
 <br>
 
-<h2>JUDO</h2>
-
-<br>
-
-<p>
-<b>DISCIPLINE</b>
-</p>
-
-<sub>
-Balance · Patience · Technique<br>
-Strength guided by control.
-</sub>
-
-<br><br>
-
-<code>FOCUS · BALANCE · DISCIPLINE</code>
-
-<br><br><br>
-
-</td>
-
-<td align="center" width="33%" bgcolor="#0A0A0A">
-
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f9e0.svg" width="60" height="60" alt="Mindset icon" />
-
-<br>
-
-<h2>MINDSET</h2>
-
-<br>
-
-<p>
-<b>EVOLUTION</b>
-</p>
-
-<sub>
-Curiosity · Precision · Consistency<br>
-Always moving forward.
-</sub>
-
-<br><br>
-
-<code>Learn · Build · Evolve</code>
-
-<br><br><br>
+<sub>Movement, technique, control.</sub>
 
 </td>
 
@@ -253,22 +226,22 @@ Always moving forward.
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=900&color=F5D76E&center=true&vCenter=true&width=720&lines=Different+interests.+One+mindset.;Stay+curious.+Stay+disciplined.;Keep+building.;Keep+evolving." alt="Animated mindset" />
-
-<br><br>
+<sub>Different interests. The same curiosity.</sub>
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:030303,35:171200,70:6B4E00,100:D4AF37&height=130&section=footer&text=THANKS%20FOR%20READING&fontSize=27&fontColor=FFF8DC&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:030303,35:171200,70:6B4E00,100:D4AF37&height=130&section=footer&text=BUILD%20WITH%20INTENT&fontSize=27&fontColor=FFF8DC&animation=fadeIn" width="100%"/>
 
-<sub><strong>Thanks for taking the time to read my README.</strong></sub>
+<br>
 
-<br><br>
+<p>
+<b>I build things to be experienced — not simply to work.</b>
+</p>
 
-<code>— Alireza Shabani</code>
+<sub>— Alireza Shabani</sub>
 
 </div>
