@@ -164,58 +164,42 @@ I care about the details that turn a working interface into a memorable one:
 
 <h2>BEYOND CODE</h2>
 
-<br>
-
-<table width="100%">
-<tr>
-
-<td align="center" width="33%">
-
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f332.svg" width="42" height="42" alt="Nature" />
-
 <br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f332.svg" width="32" height="32" alt="Nature" />
+
+<br>
 
 <h3>NATURE</h3>
 
 <sub>A quiet appreciation for the natural world.</sub>
 
-</td>
+<br><br><br>
 
-<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f3ac.svg" width="32" height="32" alt="Anime" />
 
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f3ac.svg" width="42" height="42" alt="Anime" />
-
-<br><br>
+<br>
 
 <h3>ANIME</h3>
 
 <sub>Stories and worlds that stay with you.</sub>
 
-</td>
+<br><br><br>
 
-<td align="center" width="33%">
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f94b.svg" width="32" height="32" alt="Judo" />
 
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f94b.svg" width="42" height="42" alt="Judo" />
-
-<br><br>
+<br>
 
 <h3>JUDO</h3>
 
 <sub>A sport built around movement and technique.</sub>
 
-</td>
-
-</tr>
-</table>
-
-<br><br>
+<br><br><br>
 
 <sub>
 Away from development, I enjoy the quiet of nature, the worlds of anime,
 and the practice of judo.
 </sub>
-
-<br><br><br>
 
 </div>
 
