@@ -22,7 +22,13 @@
 <tr>
 <td align="center">
 
-<h2>ABOUT ME</h2>
+<br>
+
+<div>
+<strong>ABOUT ME</strong>
+</div>
+
+<br>
 
 <p>
 I'm <b>Alireza Shabani</b>, a Front-End Developer focused on building
@@ -38,6 +44,8 @@ I care about the details that turn a working interface into a memorable one:
 
 <code>Understand → Design → Build → Refine</code>
 
+<br><br>
+
 </td>
 </tr>
 </table>
@@ -46,7 +54,11 @@ I care about the details that turn a working interface into a memorable one:
 
 <div align="center">
 
-<h2>TECHNICAL SKILLS</h2>
+<div>
+<strong>TECHNICAL SKILLS</strong>
+</div>
+
+<br>
 
 <sub>A focused toolkit for building modern front-end experiences.</sub>
 
@@ -60,7 +72,13 @@ I care about the details that turn a working interface into a memorable one:
 
 <td align="center" width="50%">
 
-<h3>LANGUAGES</h3>
+<br>
+
+<div>
+<strong>LANGUAGES</strong>
+</div>
+
+<br>
 
 <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26"/>
 &nbsp;
@@ -72,11 +90,19 @@ I care about the details that turn a working interface into a memorable one:
 &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6"/>
 
+<br><br>
+
 </td>
 
 <td align="center" width="50%">
 
-<h3>FRONT-END</h3>
+<br>
+
+<div>
+<strong>FRONT-END</strong>
+</div>
+
+<br>
 
 <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB"/>
 &nbsp;
@@ -88,6 +114,8 @@ I care about the details that turn a working interface into a memorable one:
 &nbsp;
 <img src="https://img.shields.io/badge/React_Router-111111?style=flat-square&logo=reactrouter&logoColor=CA4245"/>
 
+<br><br>
+
 </td>
 
 </tr>
@@ -96,7 +124,13 @@ I care about the details that turn a working interface into a memorable one:
 
 <td align="center">
 
-<h3>UI · STYLING</h3>
+<br>
+
+<div>
+<strong>UI · STYLING</strong>
+</div>
+
+<br>
 
 <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
 &nbsp;
@@ -104,17 +138,27 @@ I care about the details that turn a working interface into a memorable one:
 &nbsp;
 <img src="https://img.shields.io/badge/MUI-111111?style=flat-square&logo=mui&logoColor=007FFF"/>
 
+<br><br>
+
 </td>
 
 <td align="center">
 
-<h3>ANIMATION · INTERACTION</h3>
+<br>
+
+<div>
+<strong>ANIMATION · INTERACTION</strong>
+</div>
+
+<br>
 
 <img src="https://img.shields.io/badge/GSAP-111111?style=flat-square&logo=greensock&logoColor=88CE02"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Framer_Motion-111111?style=flat-square&logo=framer&logoColor=FFFFFF"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Swiper-111111?style=flat-square&logo=swiper&logoColor=6332F6"/>
+
+<br><br>
 
 </td>
 
@@ -124,7 +168,13 @@ I care about the details that turn a working interface into a memorable one:
 
 <td align="center">
 
-<h3>DATA · API</h3>
+<br>
+
+<div>
+<strong>DATA · API</strong>
+</div>
+
+<br>
 
 <img src="https://img.shields.io/badge/REST_API-111111?style=flat-square&logo=fastapi&logoColor=FFFFFF"/>
 &nbsp;
@@ -136,11 +186,19 @@ I care about the details that turn a working interface into a memorable one:
 &nbsp;
 <img src="https://img.shields.io/badge/i18next-111111?style=flat-square&logo=i18next&logoColor=26A69A"/>
 
+<br><br>
+
 </td>
 
 <td align="center">
 
-<h3>TOOLS · WORKFLOW</h3>
+<br>
+
+<div>
+<strong>TOOLS · WORKFLOW</strong>
+</div>
+
+<br>
 
 <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032"/>
 &nbsp;
@@ -152,6 +210,8 @@ I care about the details that turn a working interface into a memorable one:
 &nbsp;
 <img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=FFFFFF"/>
 
+<br><br>
+
 </td>
 
 </tr>
@@ -162,44 +222,75 @@ I care about the details that turn a working interface into a memorable one:
 
 <div align="center">
 
-<h2>BEYOND CODE</h2>
+<div>
+<strong>BEYOND CODE</strong>
+</div>
 
 <br><br>
 
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f332.svg" width="32" height="32" alt="Nature" />
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f332.svg"
+     width="32"
+     height="32"
+     alt="Nature" />
 
 <br>
 
-<h3>NATURE</h3>
-
-<sub>A quiet appreciation for the natural world.</sub>
-
-<br><br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f3ac.svg" width="32" height="32" alt="Anime" />
+<div>
+<strong>NATURE</strong>
+</div>
 
 <br>
 
-<h3>ANIME</h3>
+<sub>
+A quiet appreciation for the natural world.
+</sub>
 
-<sub>Stories and worlds that stay with you.</sub>
+<br><br><br><br>
 
-<br><br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f94b.svg" width="32" height="32" alt="Judo" />
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f3ac.svg"
+     width="32"
+     height="32"
+     alt="Anime" />
 
 <br>
 
-<h3>JUDO</h3>
+<div>
+<strong>ANIME</strong>
+</div>
 
-<sub>A sport built around movement and technique.</sub>
+<br>
 
-<br><br><br>
+<sub>
+Stories and worlds that stay with you.
+</sub>
+
+<br><br><br><br>
+
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f94b.svg"
+     width="32"
+     height="32"
+     alt="Judo" />
+
+<br>
+
+<div>
+<strong>JUDO</strong>
+</div>
+
+<br>
+
+<sub>
+A sport built around movement and technique.
+</sub>
+
+<br><br><br><br>
 
 <sub>
 Away from development, I enjoy the quiet of nature, the worlds of anime,
 and the practice of judo.
 </sub>
+
+<br><br>
 
 </div>
 
