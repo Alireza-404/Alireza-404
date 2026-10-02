@@ -228,69 +228,39 @@ I care about the details that turn a working interface into a memorable one:
 
 <br><br>
 
+<p>
 <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f332.svg"
-     width="32"
-     height="32"
+     width="24"
+     height="24"
      alt="Nature" />
-
-<br>
-
-<div>
+&nbsp;
 <strong>NATURE</strong>
-</div>
 
-<br>
-
-<sub>
-A quiet appreciation for the natural world.
-</sub>
-
-<br><br><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f3ac.svg"
-     width="32"
-     height="32"
+     width="24"
+     height="24"
      alt="Anime" />
-
-<br>
-
-<div>
+&nbsp;
 <strong>ANIME</strong>
-</div>
 
-<br>
-
-<sub>
-Stories and worlds that stay with you.
-</sub>
-
-<br><br><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f94b.svg"
-     width="32"
-     height="32"
+     width="24"
+     height="24"
      alt="Judo" />
-
-<br>
-
-<div>
+&nbsp;
 <strong>JUDO</strong>
-</div>
+</p>
 
 <br>
-
-<sub>
-A sport built around movement and technique.
-</sub>
-
-<br><br><br><br>
 
 <sub>
 Away from development, I enjoy the quiet of nature, the worlds of anime,
 and the practice of judo.
 </sub>
-
-<br><br>
 
 </div>
 
