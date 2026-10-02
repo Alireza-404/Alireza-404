@@ -8,9 +8,7 @@
 <img src="https://img.shields.io/badge/Telegram-Berserk__4O4-080808?style=for-the-badge&logo=telegram&logoColor=D4AF37&labelColor=080808" />
 </a>
 &nbsp;
-<a href="#">
 <img src="https://img.shields.io/badge/Instagram-Coming%20Soon-080808?style=for-the-badge&logo=instagram&logoColor=D4AF37&labelColor=080808" />
-</a>
 
 <br><br>
 
@@ -20,7 +18,7 @@
 
 <br>
 
-<table width="100%">
+<table width="100%" bgcolor="#070707">
 <tr>
 <td align="center">
 
@@ -48,54 +46,47 @@ I care about the details that turn a working interface into a memorable one:
 
 <div align="center">
 
-<h2>✦ TECHNOLOGIES</h2>
+<h2>✦ TECHNICAL SKILLS</h2>
 
-<sub>A focused stack built around modern front-end development.</sub>
+<sub>A focused toolkit for building modern front-end experiences.</sub>
 
 </div>
 
 <br>
 
-<table align="center" width="100%">
+<table width="100%" bgcolor="#070707">
+
 <tr>
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-<h3 align="center">CORE</h3>
+<h3>LANGUAGES</h3>
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="36" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" />
-</p>
-
-<p align="center">
-HTML5 · CSS3 · Sass · JavaScript · TypeScript
-</p>
+<img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Sass-111111?style=flat-square&logo=sass&logoColor=CC6699"/>
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6"/>
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-<h3 align="center">REACT ECOSYSTEM</h3>
+<h3>FRONT-END</h3>
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="36" />
-</p>
-
-<p align="center">
-React · Next.js · Redux · Redux Toolkit · React Router · Formik · Yup
-</p>
+<img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=next.js&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Redux-111111?style=flat-square&logo=redux&logoColor=764ABC"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Redux_Toolkit-111111?style=flat-square&logo=redux&logoColor=764ABC"/>
+&nbsp;
+<img src="https://img.shields.io/badge/React_Router-111111?style=flat-square&logo=reactrouter&logoColor=CA4245"/>
 
 </td>
 
@@ -103,39 +94,27 @@ React · Next.js · Redux · Redux Toolkit · React Router · Formik · Yup
 
 <tr>
 
-<td width="50%" valign="top">
+<td align="center">
 
-<h3 align="center">STYLING · UI</h3>
+<h3>UI · STYLING</h3>
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="36" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="36" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="36" />
-</p>
-
-<p align="center">
-Tailwind CSS · Bootstrap · MUI
-</p>
+<img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-111111?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MUI-111111?style=flat-square&logo=mui&logoColor=007FFF"/>
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center">
 
-<h3 align="center">ANIMATION · INTERACTION</h3>
+<h3>ANIMATION · INTERACTION</h3>
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/greensock/greensock-original.svg" width="36" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="36" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swiper/swiper-original.svg" width="36" />
-</p>
-
-<p align="center">
-GSAP · Framer Motion · Swiper
-</p>
+<img src="https://img.shields.io/badge/GSAP-111111?style=flat-square&logo=greensock&logoColor=88CE02"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Framer_Motion-111111?style=flat-square&logo=framer&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Swiper-111111?style=flat-square&logo=swiper&logoColor=6332F6"/>
 
 </td>
 
@@ -143,43 +122,40 @@ GSAP · Framer Motion · Swiper
 
 <tr>
 
-<td width="50%" valign="top">
+<td align="center">
 
-<h3 align="center">DATA · API</h3>
+<h3>DATA · API</h3>
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="36" />
-</p>
-
-<p align="center">
-REST API · GraphQL · Apollo Client · Supabase · i18next
-</p>
+<img src="https://img.shields.io/badge/REST_API-111111?style=flat-square&logo=fastapi&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GraphQL-111111?style=flat-square&logo=graphql&logoColor=E10098"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Apollo_Client-111111?style=flat-square&logo=apollographql&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=3ECF8E"/>
+&nbsp;
+<img src="https://img.shields.io/badge/i18next-111111?style=flat-square&logo=i18next&logoColor=26A69A"/>
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center">
 
-<h3 align="center">WORKFLOW · DEPLOYMENT</h3>
+<h3>TOOLS · WORKFLOW</h3>
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="36" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="36" />
-</p>
-
-<p align="center">
-Git · GitHub · Vite · NPM · Vercel
-</p>
+<img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=646CFF"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NPM-111111?style=flat-square&logo=npm&logoColor=CB3837"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=FFFFFF"/>
 
 </td>
 
 </tr>
+
 </table>
 
 <br><br>
@@ -188,36 +164,34 @@ Git · GitHub · Vite · NPM · Vercel
 
 <h2>✦ BEYOND CODE</h2>
 
+</div>
+
 <br>
 
-<table align="center" width="80%">
+<table width="100%">
 <tr>
 
 <td align="center" width="50%">
 
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f3ad.svg" width="42" alt="Anime" />
-
-<br><br>
-
-<b>ANIME</b>
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f3ad.svg" width="38" height="38" alt="Anime" />
 
 <br>
 
-<sub>Stories, worlds, and ideas.</sub>
+<h3>ANIME</h3>
+
+<sub>Stories, worlds, and perspectives.</sub>
 
 </td>
 
 <td align="center" width="50%">
 
-<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f94b.svg" width="42" alt="Judo" />
-
-<br><br>
-
-<b>JUDO</b>
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f94b.svg" width="38" height="38" alt="Judo" />
 
 <br>
 
-<sub>Movement, technique, control.</sub>
+<h3>JUDO</h3>
+
+<sub>Movement, technique, and control.</sub>
 
 </td>
 
@@ -226,20 +200,14 @@ Git · GitHub · Vite · NPM · Vercel
 
 <br><br>
 
-<sub>Different interests. The same curiosity.</sub>
-
-</div>
-
-<br><br>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:030303,35:171200,70:6B4E00,100:D4AF37&height=130&section=footer&text=BUILD%20WITH%20INTENT&fontSize=27&fontColor=FFF8DC&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:030303,35:171200,70:6B4E00,100:D4AF37&height=130&section=footer&text=THANKS%20FOR%20READING&fontSize=27&fontColor=FFF8DC&animation=fadeIn" width="100%"/>
 
 <br>
 
 <p>
-<b>I build things to be experienced — not simply to work.</b>
+<b>Good interfaces are not only built to work — they are built to be remembered.</b>
 </p>
 
 <sub>— Alireza Shabani</sub>
