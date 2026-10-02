@@ -166,15 +166,49 @@ I care about the details that turn a working interface into a memorable one:
 
 <br>
 
-<p>
-<b>NATURE</b>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<b>ANIME</b>
-&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
-<b>JUDO</b>
-</p>
+<table width="100%">
+<tr>
 
-<br>
+<td align="center" width="33%">
+
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f332.svg" width="42" height="42" alt="Nature" />
+
+<br><br>
+
+<h3>NATURE</h3>
+
+<sub>A quiet appreciation for the natural world.</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f3ac.svg" width="42" height="42" alt="Anime" />
+
+<br><br>
+
+<h3>ANIME</h3>
+
+<sub>Stories and worlds that stay with you.</sub>
+
+</td>
+
+<td align="center" width="33%">
+
+<img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@latest/assets/svg/1f94b.svg" width="42" height="42" alt="Judo" />
+
+<br><br>
+
+<h3>JUDO</h3>
+
+<sub>A sport built around movement and technique.</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br><br>
 
 <sub>
 Away from development, I enjoy the quiet of nature, the worlds of anime,
